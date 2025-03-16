@@ -1,15 +1,17 @@
-<h1 align="left">Hello 👋, Welcome to the Monohead Github.</h1>
+# Welcome to the Monohead GitHub
 
-###
+We specialize in developing websites and various other projects for the Monolith Servers community, including resources such as Monomaps and MonoCars.
 
-<p align="left">We create websites and other sorts of projects for the Monolith Servers community. Such as Monomaps and MonoCars.. Monohead is not affiliated with Monolith Servers and/or Thriving Ventures AB.</p>
+---
 
-###
+## Interested in Contributing to a Project?
 
-<h2 align="left">Want to volunteer in developing on a Project?</h2>
+If you're interested in contributing to an existing project hosted here under Monohead, please reach out to the respective Project Leader. You can identify the Project Leader by visiting the relevant repository. If you have an idea for a new project that doesn't already exist under Monohead, feel free to pitch your idea to me directly on Discord at Jet0751.
 
-###
+---
 
-<p align="left">If you're interested in working on an existing project hosted here on Monohead, just let a Project Leader know, you can find out who the Project Leader is by visiting the appropriate repo for the project, if you want to make a project that doesn't already exist under Monohead, pitch the idea to me on Discord at Jet0751.</p>
+## Notice of Affiliation
 
-###
+Monohead, its contributors, and any projects created under Monohead, including websites, repositories, and other related resources, are **not** associated, endorsed, or owned by Monolith Servers or Thriving Ventures AB.
+
+---
